@@ -1,0 +1,1 @@
+Dataset ini berisi informasi kimia dan sensorik dari sampel wine merah. Tiap sampel memiliki 11 fitur input seperti kadar asam, gula, alkohol, dan satu label output yaitu skor kualitas wine.
